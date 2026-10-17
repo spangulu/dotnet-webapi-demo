@@ -1,1 +1,11 @@
-# portfolio-demo-06  C# .NET Web API demo  ## Overview  This repository is a sample project for a portfolio.  ## Tech Stack  - GitHub - Java / Python / JavaScript / .NET  ## Notes  This sample was created to demonstrate project structure and GitHub publishing workflow.
+# .NET Web API Demo
+
+C# ASP.NET Core minimal API example by **Sarath Panguluri**.
+
+Requires .NET 8 SDK.
+
+```bash
+dotnet run
+```
+
+Try `/health` and `/greet/Sarath` at the printed server URL. This is an untested demonstration.
